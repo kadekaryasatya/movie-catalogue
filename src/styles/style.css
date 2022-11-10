@@ -127,8 +127,8 @@ main {
 .movie-item .movie-item__header .movie-item__header__rating {
   position: absolute;
   padding: 8px;
-  bottom: 20px;
-  left: 0;
+
+  right: 0;
   display: inline-block;
   background-color: black;
   color: white;
